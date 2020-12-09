@@ -7,16 +7,18 @@ Includet thome code templates, visualisation of concepts, fundamental statistica
 
 ### Technologies
 * Python 3+
+* R
 
-    #####  Python IDEs 
+   #####  Python IDEs 
      * Google Colaboratory
      * Anaconda Spyder
      * Jupyter Notebook
      * Visual Studio
       
-     ##### Python libraries
+    ##### Python libraries
      *  numpy, * matplotlib.pyplot, * pandas
-
+    #### R IDE
+     * Anaconda RStudio
 
 ### Part 1. Data Preprocessing:
 We have to prepare some stuff in order to make sure that we build our machine learning models without any issues.
