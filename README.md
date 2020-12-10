@@ -19,16 +19,25 @@ Includet thome code templates, visualisation of concepts, fundamental statistica
      *  numpy, * matplotlib.pyplot, * pandas
     #### R IDE
      * Anaconda RStudio
+     * Visual Studio
 
 ### Part 1. Data Preprocessing:
 We have to prepare some stuff in order to make sure that we build our machine learning models without any issues.
 
-/b main two feature scaling techniques:
+   1. Importing the dataset
+   2. Missing Data
+   3. Encoding categorical data
+   4. Splitting the dataset into the Training set and Test set
+   5. Feature Scaling
 
- * (x-mean(x))/(standard deviation (x))
- Python: 
- * "X" norm" = "  (x-min(x))/(max(x)-min⁡(x))
 
 
+### Part 2 - Regression
+   1. Simple Linear Regression
+   2. Multiple Linear Regression
+   3. Polynomial Regression
+   4. Support Vector for Regression (SVR)
+   5. Decision Tree Classification
+   6. Random Forest Classification
 ## Setup
 To run this project,
