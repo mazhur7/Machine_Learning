@@ -37,7 +37,7 @@ The goal very simply is to build a simpleregression model that will be trained t
  * R: simple_linear_regression.R
  * Dataset: Salary_Data.csv
 
-#### Sample 2.  with the Poly regression Model
+#### Sample 2. with the Multeple Liner regression Model
 A venture capital is fund hired a data scientist to train a machine learning model to understand the correlations between these features
 which are the spend in R and D administration and marketing as well as the state and the profit of what of 50 startups.
 
@@ -46,7 +46,7 @@ which are the spend in R and D administration and marketing as well as the state
  * Dataset: 50_Startups.csv
 Investigation Result:   we can clearly see that only 'R&D spend' independent variable is highly statistically significant because the P-value is really really small.
 
-#### Sample 3.  with the Multeple Liner regression Model
+#### Sample 3.  with the Poly regression Model 
 We are trying to predict the previous salary of a potential future employee that is about to be hired and this predicted salary is at the heart of the negotiation because this employee is telling that it's pretty salary was 160 OK and he's asking for more than that. And therefore we are trying to predict if there's 160 ok salary is the truth  ore bluff or above.
 
  * Python: polynomial_regression.ipynb  |  polynomial_regression.py
