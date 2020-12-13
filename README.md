@@ -37,7 +37,7 @@ The goal very simply is to build a simpleregression model that will be trained t
  * R: simple_linear_regression.R
  * Dataset: Salary_Data.csv
 
-#### Sumple 2.  with the Multeple Liner regression Model
+#### Sumple 2.  with the Poly regression Model
 A venture capital is fund hired a data scientist to train a machine learning model to understand the correlations between these features
 which are the spend in R and D administration and marketing as well as the state and the profit of what of 50 startups.
 
