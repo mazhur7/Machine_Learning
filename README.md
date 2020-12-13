@@ -29,7 +29,7 @@ Includet thome code templates, visualisation of concepts, fundamental statistica
    5. Decision Tree Classification
    6. Random Forest Classification
 
-#### Sumple 1.  with the Liner regression Model
+#### Sample 1.  with the Liner regression Model
 This dataset belongs to a company that gathered data of some of their employees collecting for each of them their years of experience and their salary.
 The goal very simply is to build a simpleregression model that will be trained to understand the relations between the number of years of experience and the salary so that it can predict for a new employee having a new number of years of experience well the corresponding salary or the salary that this person should get.
 
@@ -37,7 +37,7 @@ The goal very simply is to build a simpleregression model that will be trained t
  * R: simple_linear_regression.R
  * Dataset: Salary_Data.csv
 
-#### Sumple 2.  with the Poly regression Model
+#### Sample 2.  with the Poly regression Model
 A venture capital is fund hired a data scientist to train a machine learning model to understand the correlations between these features
 which are the spend in R and D administration and marketing as well as the state and the profit of what of 50 startups.
 
@@ -46,11 +46,11 @@ which are the spend in R and D administration and marketing as well as the state
  * Dataset: 50_Startups.csv
 Investigation Result:   we can clearly see that only 'R&D spend' independent variable is highly statistically significant because the P-value is really really small.
 
-#### Sumple 3.  with the Multeple Liner regression Model
+#### Sample 3.  with the Multeple Liner regression Model
 We are trying to predict the previous salary of a potential future employee that is about to be hired and this predicted salary is at the heart of the negotiation because this employee is telling that it's pretty salary was 160 OK and he's asking for more than that. And therefore we are trying to predict if there's 160 ok salary is the truth  ore bluff or above.
 
  * Python: polynomial_regression.ipynb  |  polynomial_regression.py
- * R: multiple_linear_regression.R
+ * R: Salary_Prodiction_PolyReg.r
  * Dataset: Position_Salaries.csv
 
 Investigation Result:   the finel value is 158862 so very close to what the employee said. This new potential employee is very horniest.
