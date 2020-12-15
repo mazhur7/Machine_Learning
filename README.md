@@ -59,16 +59,6 @@ Investigation Results:   the finel value is 158862 so very close to what the emp
    * R: SalaryPrediction_SVR.R
    * Dataset: Position_Salaries.csv
 Investigation Results:   the finel value is 170370 so not too far from what the employee said. This new potential employee is very horniest.
-### Section SVM Intuition
 
-1. Kernel SVM Intuition
-2. Mapping to a higher dimenision
-3. The Kernel Trick
-4. Kernel Functions
-5. Non-linear Kernel SVR
-
-    * Python: polynomial_regression.ipynb  |  polynomial_regression.py
-    * R: Salary_Prodiction_PolyReg.r
-    * Dataset: Position_Salaries.csv
 ## Setup
-To run this project,
+To run this project.......
