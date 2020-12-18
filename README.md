@@ -46,7 +46,8 @@ which are the spend in R and D administration and marketing as well as the state
    * Python: Startups_multiple_linear_regression.ipynb  |  Sturtups_multiple_linear_regression.py
    * R: multiple_linear_regression.R
    * Dataset: 50_Startups.csv
-Investigation Result:   we can clearly see that only 'R&D spend' independent variable is highly statistically significant because the P-value is really really small.
+   
+   Investigation Result:   we can clearly see that only 'R&D spend' independent variable is highly statistically significant because the P-value is really really small.
 
 #### Sample 3. not Liner regression Models.  
 We are trying to predict the previous salary of a potential future employee that is about to be hired and this predicted salary is at the heart of the negotiation because this employee is telling that it's pretty salary was 160 OK and he's asking for more than that. And therefore we are trying to predict if there's 160 ok salary is the truth  ore bluff or above.
@@ -54,6 +55,7 @@ We are trying to predict the previous salary of a potential future employee that
    * Python: polynomial_regression.ipynb  |  polynomial_regression.py
    * R: Salary_Prodiction_PolyReg.r
    * Dataset: Position_Salaries.csv
+   
 Investigation Results:   the finel value is 158862 so very close to what the employee said. This new potential employee is very horniest.
   
    ### 3.2. Training the SVR model 
@@ -67,6 +69,7 @@ It's the nonlinear and non-continuous regression model.
    Python: Salary_Prodiction_DecTree.ipynb  |  Salary_Prodiction_DecTree.py
    * R: SalaryPrediction_DecTree.R
    * Dataset: Position_Salaries.csv
+   
  Investigation Results:   the finel value is 150000 so they work by splitting the data through successive note. 
  But it still recommend to try the decision tree regression model for higher dimensional data sets because indeed it can actually have great performance.
  
@@ -74,6 +77,7 @@ It's the nonlinear and non-continuous regression model.
    Python: Salary_Prodiction_Forest.ipynb  |  Salary_Prodiction_Forest.py
    * R: SalaryPrediction_Forest.R
    * Dataset: Position_Salaries.csv
+   
     Investigation Results:   the finel value is 150000 so they work by splitting the data through successive note. 
  But it still recommend to try the decision tree regression model for higher dimensional data sets because indeed it can actually have great performance.
 ## Setup
