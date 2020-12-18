@@ -78,7 +78,6 @@ It's the nonlinear and non-continuous regression model.
    * R: SalaryPrediction_Forest.R
    * Dataset: Position_Salaries.csv
    
-    Investigation Results:   the finel value is 150000 so they work by splitting the data through successive note. 
- But it still recommend to try the decision tree regression model for higher dimensional data sets because indeed it can actually have great performance.
+    Investigation Results:   the finel value is 167000  it moche close But  this is not really relevant in 2D.
 ## Setup
 To run this project.......
