@@ -78,6 +78,7 @@ It's the nonlinear and non-continuous regression model.
    * R: SalaryPrediction_Forest.R
    * Dataset: Position_Salaries.csv
    
-    Investigation Results:   the finel value is 167000  it moche close But  this is not really relevant in 2D.
-## Setup
+  Investigation Results:  only with runing 500 trees models we have  the value prodiction = 160458. We can say It's trap for this dataset.
+  
+  ## Setup
 To run this project.......
