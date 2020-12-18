@@ -54,11 +54,25 @@ We are trying to predict the previous salary of a potential future employee that
    * Dataset: Position_Salaries.csv
 Investigation Results:   the finel value is 158862 so very close to what the employee said. This new potential employee is very horniest.
   
-   ### Training the SVR model 
+   ### 3.2. Training the SVR model 
    * Python: Salary_Prodiction_SVReg.ipynb  |  Salary_Prodiction_SVReg.py
    * R: SalaryPrediction_SVR.R
    * Dataset: Position_Salaries.csv
 Investigation Results:   the finel value is 170370 so not too far from what the employee said. This new potential employee is very horniest.
 
+  ### 3.3. Decision Tree Regression model 
+It's the nonlinear and non-continuous regression model.
+   Python: Salary_Prodiction_DecTree.ipynb  |  Salary_Prodiction_DecTree.py
+   * R: SalaryPrediction_DecTree.R
+   * Dataset: Position_Salaries.csv
+ Investigation Results:   the finel value is 150000 so they work by splitting the data through successive note. 
+ But it still recommend to try the decision tree regression model for higher dimensional data sets because indeed it can actually have great performance.
+ 
+  ### 3.4. Decision Forest Regression model 
+   Python: Salary_Prodiction_Forest.ipynb  |  Salary_Prodiction_Forest.py
+   * R: SalaryPrediction_Forest.R
+   * Dataset: Position_Salaries.csv
+ Investigation Results:   the finel value is 150000 so they work by splitting the data through successive note. 
+ But it still recommend to try the decision tree regression model for higher dimensional data sets because indeed it can actually have great performance.
 ## Setup
 To run this project.......
