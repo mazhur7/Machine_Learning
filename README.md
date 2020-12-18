@@ -28,7 +28,8 @@ Includet thome code templates, visualisation of concepts, fundamental statistica
    4. Support Vector for Regression (SVR)
    5. Decision Tree Classification
    6. Random Forest Classification
-
+## All template files you can faind into the folder Machine_Learning/Stage2_Regression
+So let start:
 #### Sample 1. the Liner regression Model
 This dataset belongs to a company that gathered data of some of their employees collecting for each of them their years of experience and their salary.
 The goal very simply is to build a simpleregression model that will be trained to understand the relations between the number of years of experience and the salary so that it can predict for a new employee having a new number of years of experience well the corresponding salary or the salary that this person should get.
@@ -48,7 +49,7 @@ Investigation Result:   we can clearly see that only 'R&D spend' independent var
 
 #### Sample 3. not Liner regression Models.  
 We are trying to predict the previous salary of a potential future employee that is about to be hired and this predicted salary is at the heart of the negotiation because this employee is telling that it's pretty salary was 160 OK and he's asking for more than that. And therefore we are trying to predict if there's 160 ok salary is the truth  ore bluff or above.
-   ### the Poly regression Model 
+   ### 3.1. the Poly regression Model 
    * Python: polynomial_regression.ipynb  |  polynomial_regression.py
    * R: Salary_Prodiction_PolyReg.r
    * Dataset: Position_Salaries.csv
